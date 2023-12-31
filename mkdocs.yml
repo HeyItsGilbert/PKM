@@ -41,8 +41,9 @@ theme:
         - search.highlight
 
 validation:
-  absolute_links: ignore
-  unrecognized_links: ignore
+  omitted_files: warn
+  absolute_links: warn
+  unrecognized_links: warn
 
 # Extensions
 markdown_extensions:
