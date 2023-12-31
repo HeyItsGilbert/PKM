@@ -2,6 +2,7 @@
 date: 2022-07-06
 published: true
 title: Obsidian
+share: true
 ---
 
 
