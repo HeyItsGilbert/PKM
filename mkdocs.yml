@@ -40,6 +40,10 @@ theme:
         - search.suggest
         - search.highlight
 
+validation:
+  absolute_links: ignore
+  unrecognized_links: ignore
+
 # Extensions
 markdown_extensions:
   - footnotes
