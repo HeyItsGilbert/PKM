@@ -2,6 +2,7 @@
 date: 2022-07-09
 title: PowerShell
 published: true
+share: true
 tags:
   - powershell
   - tech
