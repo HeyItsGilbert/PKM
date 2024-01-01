@@ -10,3 +10,4 @@ Hi all, welcome to my [DigitalGarden](./Atomics/DigitalGarden.md). I've been tak
 
 I'm going to document how I built this site with [Obsidian](./Atomics/Obsidian.md), [PowerShell](./Atomics/PowerShell.md) and [Hugo](./Atomics/Hugo.md).
 
+Also [Test](./Test.md) which is top level.
