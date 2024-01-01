@@ -6,7 +6,7 @@ share: true
 
 # Notes
 
-Hi all, welcome to my [DigitalGarden](./atomics/DigitalGarden.md). I've been taking a lot of notes in [Obsidian](./atomics/Obsidian.md) and I came across some Digital Garden's. I love the idea of learning in Public, so I decided to give it a go.
+Hi all, welcome to my [DigitalGarden](./Atomics/DigitalGarden.md). I've been taking a lot of notes in [Obsidian](./Atomics/Obsidian.md) and I came across some Digital Garden's. I love the idea of learning in Public, so I decided to give it a go.
 
-I'm going to document how I built this site with [Obsidian](./atomics/Obsidian.md), [PowerShell](./atomics/PowerShell.md) and [Hugo](./atomics/Hugo.md).
+I'm going to document how I built this site with [Obsidian](./Atomics/Obsidian.md), [PowerShell](./Atomics/PowerShell.md) and [Hugo](./Atomics/Hugo.md).
 
