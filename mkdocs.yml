@@ -1,7 +1,9 @@
 site_name: Hey It's Gilbert's PKM # Change this to your site name
 site_description: My random thoughts and notes.
-site_url: https://heyitsgilbert.github.io/PKM # Change this to your site URL
+site_url: https://heyitsgilbert.github.io/PKM/ # Change this to your site URL
 site_author: Gilbert Sanchez
+repo_url: https://github.com/HeyItsGilbert/PKM/
+
 
 theme:
     name: 'material'
