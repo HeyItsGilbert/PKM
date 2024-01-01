@@ -28,8 +28,8 @@ theme:
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: blue
-      accent: indigo
+      primary: deep purple
+      accent: deep purple
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
