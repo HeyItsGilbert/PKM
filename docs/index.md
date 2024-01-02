@@ -2,6 +2,7 @@
 date: 2022-07-06
 published: true
 share: true
+title: index
 ---
 
 # Hey, It's Gilbert's Personal Knowledge Management
