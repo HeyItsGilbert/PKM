@@ -3,6 +3,7 @@ date: 2024-01-02
 published: true
 title: Atomics
 share: true
+type: note
 ---
 
 # Atomics
