@@ -1,6 +1,6 @@
 ---
 share: true
-title: mobile
 ---
 
+# Mobile Publishing
 Obsidian publish works on mobile! 
