@@ -11,9 +11,9 @@ def list_existing_pages(config: MkDocsConfig, files: Files):
         if file.is_documentation_page() or file.is_media_file():
             pages.append({
                 'src_uri' : file.src_path,
-                'dest_uri' : file.url,
+                'dest_uri' : file.url.lower(),
                 'name': file.name,
-                'url' : file.url,
+                'url' : file.url.lower(),
             })
     with open(posixpath.join(output_dir, 'search', 'all_files.json'), 'w', encoding="UTF-8") as f:
         json.dump(pages, f, indent=4)
