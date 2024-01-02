@@ -2,4 +2,4 @@
 share: true
 ---
 
-Obsidian publish works on mobile? 
+Obsidian publish works on mobile! 
