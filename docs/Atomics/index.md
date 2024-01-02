@@ -1,6 +1,6 @@
 ---
 date: 2024-01-02
-published: false
+published: true
 title: Atomics
 share: true
 ---
