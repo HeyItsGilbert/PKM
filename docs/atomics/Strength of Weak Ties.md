@@ -8,7 +8,7 @@ share: true
 
 This is a paradox where making connections with folks who don't normally interact with can offer a new perspective. 
 
-![[reviews/The Tipping Point#^600245|The Tipping Point]]
+![[reviews/The Tipping Point#^600245|reviews/The Tipping Point]]
 
 ---
 # References
