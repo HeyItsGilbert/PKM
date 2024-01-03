@@ -2,14 +2,17 @@ site_name: Hey It's Gilbert's PKM # Change this to your site name
 site_description: My random thoughts and notes.
 site_url: https://pkm.gilbertsanchez.com/ # Change this to your site URL
 site_author: Gilbert Sanchez
-repo_url: https://github.com/HeyItsGilbert/PKM/
 
+repo_url: https://github.com/HeyItsGilbert/PKM/
+repo_name: HeyItsGilbert/PKM
 
 theme:
     name: 'material'
     logo: assets/meta/favicons.png
     favicon: assets/meta/favicons.png
     custom_dir: overrides
+    icon:
+        repo: fontawesome/brands/github
     font:
         text: Ubuntu
         code: Ubuntu Mono
