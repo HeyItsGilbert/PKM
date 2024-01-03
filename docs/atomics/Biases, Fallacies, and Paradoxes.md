@@ -8,7 +8,6 @@ aliases:
 share: true
 ---
 
-
 I enjoy learning about and observing biases. They impact our day-to-day lives and can be insideous if not kept in check. By learning about these, I can try to be more aware of them to reduce them in both myself and call them out in others (politely of course!).
 # Bias
 ## Confirmation Bias
@@ -25,6 +24,7 @@ An example: you have $600 in a pot, but all the facts tell you that you won't wi
 If given the right information, you would change your behaviors.
 
 # Paradoxes
+An idea that seems counterintuitive or self contradictory.
 ## [[Strength of Weak Ties|Strength of Weak Ties]]
 A paradox that shows we learn more from folks from outside of typical community.
 
