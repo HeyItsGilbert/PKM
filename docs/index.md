@@ -1,6 +1,5 @@
 ---
 date: 2022-07-06
-published: true
 share: true
 title: Home
 ---
