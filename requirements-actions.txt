@@ -1,0 +1,2 @@
+obsidiantools==0.10.0
+pyvis==0.3.1
