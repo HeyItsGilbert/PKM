@@ -2,7 +2,6 @@
 date: 2024-01-03
 title: MkDocs
 share: true
-filename: mkdocs
 ---
 
 # MkDocs
