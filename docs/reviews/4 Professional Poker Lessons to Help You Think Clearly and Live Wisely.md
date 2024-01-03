@@ -5,6 +5,8 @@ tags:
   - youtube
 ---
 
+**Original**: https://youtu.be/FVamrGf8UYA
+
 Liv Boeree covers some biases that show up in our day-to-day lives that we often can see in poker.
 ## Confirmation Bias
   > The most damaging bias that can come up in poker and I also think very often in life is what's known as confirmation bias.
@@ -25,5 +27,4 @@ Example she gives is where she loses a number of chips to get to N vs when she's
 
 ---
 ## References
-- YouTube Video: https://youtu.be/FVamrGf8UYA
 - [[Biases, Fallacies, and Paradoxes|Biases, Fallacies, and Paradoxes]]
