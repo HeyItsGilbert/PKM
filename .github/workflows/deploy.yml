@@ -19,7 +19,7 @@ permissions:
 
 jobs:
   deploy:
-    uses: HeyItsGilbert/actions/.github/workflows/deploy.yml@main
+    uses: HeyItsGilbert/actions/.github/workflows/deploy.yml@patch-1
     with:
       GENERATE_GRAPH: true
     secrets:
