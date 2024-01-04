@@ -19,7 +19,7 @@ permissions:
 
 jobs:
   deploy:
-    uses: ObsidianPublisher/actions/.github/workflows/deploy.yml@main
+    uses: HeyItsGilbert/actions/.github/workflows/deploy.yml@main
     with:
       GENERATE_GRAPH: true
     secrets:
