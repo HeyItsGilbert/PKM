@@ -17,5 +17,3 @@ cairosvg==2.7.1
 pillow==10.2.0
 mkdocs-glightbox==0.3.6
 mkdocs-minify-plugin==0.7.2
-
-mkdocs-caseinsensitive-plugin==0.4.1
